@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19b315d5.css",
+    "main.js": "/static/js/main.d3328f56.js",
+    "static/js/447.2e91cbd1.chunk.js": "/static/js/447.2e91cbd1.chunk.js",
+    "static/media/img1.png": "/static/media/img1.27e9861e929917aad191.png",
+    "static/media/site-bg.jpg": "/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/bg.webp": "/static/media/bg.c103ce048df4e616c856.webp",
+    "static/media/logo.png": "/static/media/logo.baf9361cabee48c9c41d.png",
+    "static/media/2.webp": "/static/media/2.a529832d26f6c2429ed0.webp",
+    "static/media/1.webp": "/static/media/1.12db38e4c0e074e9aac0.webp",
+    "static/media/6.webp": "/static/media/6.90e0ebe1890fdd260fc5.webp",
+    "static/media/4.webp": "/static/media/4.860a1d82891fbe189cbc.webp",
+    "static/media/3.webp": "/static/media/3.d14ef28e519f50cb0303.webp",
+    "static/media/cv.pdf": "/static/media/cv.0b9f72d7be14d4cc126d.pdf",
+    "static/media/5.webp": "/static/media/5.387d141124b4228349b0.webp",
+    "static/media/services.webp": "/static/media/services.91297979426b019fd8bd.webp",
+    "static/media/git.webp": "/static/media/git.6b51750afb1065ebe625.webp",
+    "static/media/insta.webp": "/static/media/insta.826e49c9af29eee26b55.webp",
+    "static/media/linkedin.webp": "/static/media/linkedin.84277a367dc65e9ecad5.webp",
+    "index.html": "/index.html",
+    "main.19b315d5.css.map": "/static/css/main.19b315d5.css.map",
+    "main.d3328f56.js.map": "/static/js/main.d3328f56.js.map",
+    "447.2e91cbd1.chunk.js.map": "/static/js/447.2e91cbd1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19b315d5.css",
+    "static/js/main.d3328f56.js"
+  ]
+}
